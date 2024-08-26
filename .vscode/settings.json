@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "chrono": "c",
+        "stb_image.h": "c"
+    }
+}
